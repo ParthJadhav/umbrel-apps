@@ -1,6 +1,6 @@
 manifestVersion: 1
 id: btc-rpc-explorer
-category: bitcoin
+category: Bitcoin
 name: BTC RPC Explorer
 tagline: Simple, database-free blockchain explorer
 description: >-
