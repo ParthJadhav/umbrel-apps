@@ -43,7 +43,6 @@ gallery:
   - 2.jpg
   - 3.jpg
 path: ""
-defaultUsername: ""
 defaultPassword: ""
 submitter: Umbrel
 submission: https://github.com/getumbrel/umbrel/pull/334
