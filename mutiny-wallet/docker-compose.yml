@@ -35,7 +35,7 @@ services:
       - postgres
 
   web:
-    image: ghcr.io/mutinywallet/mutiny-web:v0.4.20@sha256:16e4730bf0049453a74bc41cd622c4d37e631fc2d305b0cb7188a323c7c301eb
+    image: ghcr.io/mutinywallet/mutiny-web:build-93@sha256:da1d0d75cb7562ea3a2babd392c0f7ca8ac5ad179d0d5e8fdebc0d2fefd13602
     restart: on-failure
 
   nginx:

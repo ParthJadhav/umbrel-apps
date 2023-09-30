@@ -14,9 +14,7 @@ description: >-
   Nostr Wallet Connect, Nostr Contacts, and a Zap Feed.
 
   WARNING: This is an beta software, don't put too much money in.
-releaseNotes: >
-  - Initial Umbrel Release
-
+releaseNotes: ""
 developer: Mutiny Wallet
 website: https://mutinywallet.com
 repo: https://github.com/mutiny-wallet/mutiny-web
@@ -27,6 +25,7 @@ gallery:
   - 2.jpg
   - 3.jpg
 path: ""
+dependencies: []
 defaultUsername: ""
 defaultPassword: ""
 submitter: MutinyWallet
